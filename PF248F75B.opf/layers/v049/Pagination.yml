@@ -1653,72 +1653,84 @@ annotations:
     span:
       start: 307958
       end: 309240
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   78d208ef4dc24b7e908c3a86d3c9e57c:
     imgnum: 798
     reference: ''
     span:
       start: 309242
       end: 310575
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   21b283896ce34474858682f6622d2aa6:
     imgnum: 799
     reference: ''
     span:
       start: 310577
       end: 311925
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   09b4cb048e964d4fa89a4439522fb6f1:
     imgnum: 800
     reference: ''
     span:
       start: 311927
       end: 313215
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   36659bdd15864992b3fabe9bc3f854d3:
     imgnum: 801
     reference: ''
     span:
       start: 313217
       end: 314547
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   e1d363f5936d4006b6acf7b1232d2da5:
     imgnum: 802
     reference: ''
     span:
       start: 314549
       end: 315858
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   56970d50fcbc495887b7b10f10b51621:
     imgnum: 803
     reference: ''
     span:
       start: 315860
       end: 317122
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   a171bebb56b642018da9c55aff46737d:
     imgnum: 804
     reference: ''
     span:
       start: 317124
       end: 318432
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   5318e1a308134aa9b181e5a338094ed6:
     imgnum: 805
     reference: ''
     span:
       start: 318434
       end: 319826
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   b42b4b4647504a44a37b8305dd6e502e:
     imgnum: 806
     reference: ''
     span:
       start: 319828
       end: 321076
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   56535adbb8ac43359e5aedb9bde906a5:
     imgnum: 807
     reference: ''
     span:
       start: 321078
       end: 322422
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   9aba33707fde404086f4998699574d0f:
     imgnum: 808
     reference: ''
     span:
       start: 322424
       end: 323777
+    note_ref: a76929f8d7754fcfacf16b4a8a01091c
   db90bfd399ec4c37879fbd0b672b4275:
     imgnum: 809
     reference: ''
